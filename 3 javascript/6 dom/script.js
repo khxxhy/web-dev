@@ -1,4 +1,4 @@
-//console.log -> prints
+    //console.log -> prints
 // console.dir -> document-> properties and methods print
 
 //console.dir(window.document.body.childNodes[1].innerText = "abcd"); 
